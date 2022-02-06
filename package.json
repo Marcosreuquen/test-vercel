@@ -1,0 +1,21 @@
+{
+  "name": "introduccion-a-vercel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next"
+  },
+  "dependencies": {
+    "next": "^12.0.10",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.15",
+    "@types/react": "^17.0.39",
+    "typescript": "^4.5.5"
+  }
+}
